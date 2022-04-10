@@ -4,6 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/StudyingData/Industry foundation and core/20212/Android/codelab-android/codelab-1.2a/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/StudyingData/Industry foundation and core/20212/Android/codelab-android/codelab-1.2b/app/src/main/res/layout-land/activity_main.xml" value="0.15432098765432098" />
+        <entry key="..\:/StudyingData/Industry foundation and core/20212/Android/codelab-android/codelab-1.2b/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.18" />
+        <entry key="..\:/StudyingData/Industry foundation and core/20212/Android/codelab-android/codelab-1.2b/app/src/main/res/layout/activity_main.xml" value="0.17" />
       </map>
     </option>
   </component>
